@@ -24,4 +24,3 @@ console.log(x);//Answer is 6
 y=7;
 y+=1;
 console.log(y);//answer is like y=y+1 means 8
-
